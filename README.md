@@ -1,5 +1,6 @@
 # Ranked-Retrieval-Model
 有关实验二的相关实验报告以及代码实现
+## 张铭豪 201800130053
 ## 实验内容
 在 Homework 1.1的基础上实现最基本的 Ranked retrieval model;
 Use SMART notation: lnc.ltc;
